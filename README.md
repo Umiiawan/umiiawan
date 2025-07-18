@@ -6,8 +6,6 @@
 ---
 
 ### 🚀 Work
-
-| 🔭 I’m currently working on         | [Car Wash Management System](https://github.com/Umiiawan/FYP_PROJECT) |
 |------------------------------------|------------------------------------------------------------------------|
 | 👯 I’m looking to collaborate on   | MERN Stack Projects, Shopify Themes                                   |
 | 🤝 I’m looking for help with       | Advanced React & Performance Optimization                             |
