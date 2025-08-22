@@ -1,19 +1,39 @@
 <h1 align="center">Hi 👋, I'm Usama Tariq</h1>
-<h3 align="center">A passionate Full Stack Developer from Pakistan</h3>
+<h3 align="center">CEO & Founder of <a href="https://softleticspro.com" target="_blank">SoftleticsPro</a> | Entrepreneur & Tech Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Umiiawan&label=Profile%20views&color=0e75b6&style=flat" alt="Umiiawan" /> </p>
 
 ---
 
-### 🚀 Work
-|------------------------------------|------------------------------------------------------------------------|
-| 👯 I’m looking to collaborate on   | MERN Stack Projects, Shopify Themes                                   |
-| 🤝 I’m looking for help with       | Advanced React & Performance Optimization                             |
-| 🌱 I’m currently learning          | Next.js, TypeScript, DevOps Basics                                    |
-| 💬 Ask me about                    | React.js, Vue.js, GSAP                                                |
-| 📫 How to reach me                 | usama11tariqawan@gmail.com                                              |
-| 📄 Know about my experiences       | [My Resume](https://drive.google.com/file/d/1uYAwJ7LrIi5Y0sYzUn9GuydVCNcx8V3d/view?usp=sharing)                             |
-| ⚡ Fun fact                         | I debug faster with a cup of chai ☕                                   |
+### 🚀 About Me
+I am the CEO & Founder of SoftleticsPro, with 3–5 years of experience in web development, software solutions, and digital innovation. I help startups and businesses grow by delivering tech solutions that drive results.  
+
+---
+
+### 👯 I’m looking to collaborate on
+- Innovative web & app projects  
+- Startups & small business tech solutions  
+
+### 🤝 I’m looking for help with
+- Strategic business growth via technology  
+- Partnerships and scaling opportunities  
+
+### 🌱 I’m currently learning
+- Advanced AI integration  
+- Modern SaaS development  
+- Growth strategies for tech startups  
+
+### 💬 Ask me about
+- Entrepreneurship  
+- Web & App Development  
+- Scaling tech solutions  
+
+### 📫 How to reach me
+- Email: usama11tariqawan@gmail.com  
+- Website: [SoftleticsPro.com](https://softleticspro.com)  
+
+### ⚡ Fun fact
+I believe a strong team and smart tech can solve almost any business challenge 🚀  
 
 ---
 
@@ -27,15 +47,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Umiiawan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Umiiawan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</p>
-
----
-
 ### 🛠️ Technologies & Tools
 
 <p align="left">
@@ -44,14 +55,13 @@
 
 ---
 
-### 📝 Latest Blog Posts
+### 📝 Selected Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Full-Stack Car Wash Booking System in 2 Weeks](#)
 - [Using GSAP with React for Stunning Animations](#)
 - [Top 10 VS Code Extensions for Web Developers](#)
+- [How to Build a Scalable Startup Platform](#)
 <!-- BLOG-POST-LIST:END -->
 
 ---
 
-⭐ **Don't forget to follow me and star your favorite projects!**
-
+⭐ **Follow SoftleticsPro and check our projects at [softleticspro.com](https://softleticspro.com)!**
