@@ -1,39 +1,31 @@
 <h1 align="center">Hi 👋, I'm Usama Tariq</h1>
-<h3 align="center">CEO & Founder of <a href="https://softleticspro.com" target="_blank">SoftleticsPro</a> | Entrepreneur & Tech Enthusiast</h3>
+<h3 align="center">Software Engineer | Web Developer | Tech Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Umiiawan&label=Profile%20views&color=0e75b6&style=flat" alt="Umiiawan" /> </p>
 
 ---
 
 ### 🚀 About Me
-I am the CEO & Founder of SoftleticsPro, with 3–5 years of experience in web development, software solutions, and digital innovation. I help startups and businesses grow by delivering tech solutions that drive results.  
+I am a passionate Software Engineer with 6 months of experience in web development, building modern web applications using technologies like **React, Node.js, and MongoDB**. I enjoy solving challenging problems, learning new technologies, and contributing to impactful projects.  
 
 ---
 
 ### 👯 I’m looking to collaborate on
-- Innovative web & app projects  
-- Startups & small business tech solutions  
-
-### 🤝 I’m looking for help with
-- Strategic business growth via technology  
-- Partnerships and scaling opportunities  
+- Web & Mobile App Development projects  
+- Modern SaaS platforms and scalable applications  
 
 ### 🌱 I’m currently learning
-- Advanced AI integration  
-- Modern SaaS development  
-- Growth strategies for tech startups  
+- Advanced React patterns & state management  
+- Modern backend architectures  
+- AI-powered web solutions  
 
 ### 💬 Ask me about
-- Entrepreneurship  
-- Web & App Development  
-- Scaling tech solutions  
+- Full-stack web development  
+- JavaScript, Node.js, React  
+- Building scalable and maintainable web apps  
 
 ### 📫 How to reach me
 - Email: usama11tariqawan@gmail.com  
-- Website: [SoftleticsPro.com](https://softleticspro.com)  
-
-### ⚡ Fun fact
-I believe a strong team and smart tech can solve almost any business challenge 🚀  
 
 ---
 
@@ -41,7 +33,6 @@ I believe a strong team and smart tech can solve almost any business challenge �
 
 <p align="left">
 <a href="https://linkedin.com/in/usama-tariq-396452279" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-<a href="https://www.facebook.com/usamatariq20" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="facebook" /></a>
 <a href="https://github.com/Umiiawan" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="github" /></a>
 </p>
 
@@ -55,13 +46,13 @@ I believe a strong team and smart tech can solve almost any business challenge �
 
 ---
 
-### 📝 Selected Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Using GSAP with React for Stunning Animations](#)
-- [Top 10 VS Code Extensions for Web Developers](#)
-- [How to Build a Scalable Startup Platform](#)
-<!-- BLOG-POST-LIST:END -->
+### 📝 Selected Projects
+<!-- PROJECT-LIST:START -->
+- [Portfolio Website](#) – My personal web portfolio built with React & Tailwind  
+- [E-commerce Platform](#) – Full-stack web app using Node.js, Express & MongoDB  
+- [Task Manager App](#) – React app for managing daily tasks efficiently  
+<!-- PROJECT-LIST:END -->
 
 ---
 
-⭐ **Follow SoftleticsPro and check our projects at [softleticspro.com](https://softleticspro.com)!**
+⭐ **Check my projects on GitHub and connect with me on LinkedIn!**
